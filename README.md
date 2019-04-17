@@ -25,7 +25,7 @@ class YourCustomViewController: UIViewController {
 ```
 
 ## Next steps
-1- Add write message functionality
+1- Add write message functionality<br>
 2- Add chats view controller
 
 ## Requirements
