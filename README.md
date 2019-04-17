@@ -24,6 +24,10 @@ class YourCustomViewController: UIViewController {
 
 ```
 
+## Next steps
+1- Add write message functionality
+2- Add chats view controller
+
 ## Requirements
 Xcode 9 or later <br>
 iOS 10.0 or later <br>
